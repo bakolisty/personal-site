@@ -1,1 +1,1 @@
-My silly personal website!
+My personal website!
